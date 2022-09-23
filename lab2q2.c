@@ -69,10 +69,10 @@ void printArray(int A[], int size)
  
 int main()
 {
-    int arr[] = { 4,1,3,9,7 };
+    int arr[] = { 10,9,8,7,6,5,4,3,2,1 };
     int arr_size;
   scanf("%d",&arr_size);
-  printf("d",arr_size);
+  printf("%d",arr_size);
     printf("Given array is \n");
     printArray(arr, arr_size);
  
