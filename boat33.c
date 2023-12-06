@@ -23,12 +23,12 @@ int main()
     scanf("%d", s1.roll);
     printf("enter the section:\n");
     scanf("%c", s1.sec);
+    printf("hey");
     printf("enter sub section:\n");
     scanf("%d", s1.sub_sec);
     printf("enter the marks of the student in CSP");
     scanf("%f", s1.marks);
     printf("enter student name:\n");
     scanf("%s", s1.name);
-
 return 0;
 }
